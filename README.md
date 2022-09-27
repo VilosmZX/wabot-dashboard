@@ -1,7 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+Wa Bot Dashboard [https://github.com/VilosmZX/HyperBotAPI](HyperBotAPI)
 ## Available Scripts
 
 In the project directory, you can run:
