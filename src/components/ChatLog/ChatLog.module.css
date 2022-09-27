@@ -1,0 +1,14 @@
+.container {
+    background: rgb(184, 159, 159);
+    height: 20vw;
+    padding: 1rem;
+    margin-right: 2rem;
+    margin-top: 1rem;
+    overflow: scroll;
+}
+
+.refresh {
+    position: fixed;
+    right: 3.5vw;
+    bottom: 52vh;
+}

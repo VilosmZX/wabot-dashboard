@@ -1,0 +1,27 @@
+.container {
+    margin-top: 2rem;
+    background: rgb(115, 112, 112);
+    width: 50vw;
+    color: white;
+    padding: 1rem;
+    border-radius: 20px;
+    height: 12.5rem;
+    display: flex;
+    align-items: center;
+    overflow-y: scroll;
+}
+
+.refresh {
+    position: fixed;
+    right: 35vw;
+    bottom: 17vh;
+}
+.total {
+    position: fixed;
+    bottom: 39vh;
+    right: 35vw;
+    background: white;
+    color: black;
+    padding: 5px;
+    border-radius: 5px;
+}

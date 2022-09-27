@@ -1,0 +1,32 @@
+.container {
+    position: fixed;
+    right: 10px;
+    top: 10px;
+}
+
+.logContainer {
+    background: black;
+    color: white;
+    position: fixed;
+    right: 10px;
+    top: 3rem;
+    opacity: 1;
+    height: auto;
+    transition: 0.3s ease-in;
+    overflow: hidden;
+    padding: 1rem;
+}
+
+.ul {
+    padding: 0;
+    padding-left: 1rem;
+}
+
+.hide {
+    position: fixed;
+    right: 10px;
+    top: 3rem;
+    opacity: 0;
+    height: 0;
+    transition: 0.3s ease-in;
+}
